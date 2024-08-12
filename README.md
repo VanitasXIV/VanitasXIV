@@ -28,6 +28,8 @@
 	<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 </p>
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+<h3>Education</h3>
+<h4>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></h4>
+
 	[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
  
