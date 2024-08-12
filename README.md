@@ -30,7 +30,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 </p>
 <h3>Education</h3>
-<p><strong>University</strong>:<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">Programming Associate Degree</a></p>
+<p><strong>University</strong>:<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> Programming Associate Degree</a></p>
 <p>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></p>
 <p>Game Development <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff"/></p>
  
