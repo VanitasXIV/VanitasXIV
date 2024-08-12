@@ -3,18 +3,31 @@
 
 <p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
 <h3>Technologies I'm learning</h3>
+<h4>🧑‍💻 Programming Languages</h4>
+<p>
+	<h5><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> at university</h5>
+ 	<h5><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> for Game Development</h5>
+	</p>
+ <p>
+	<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+</p>
 <h4>🖼️ Frameworks</h4>
+<p>
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-
+</p>
 <h3>Tools I code with</h3>
-<h4>🕹️ Game Engines</h4>
+<p>
 <img class="unreal" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)"/>
-<h4>💻 IDE/Code Editors</h4>
-
+	<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+</p>
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
 	[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
  
