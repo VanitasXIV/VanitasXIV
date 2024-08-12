@@ -2,6 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=VanitasXIV"/>
 <p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
+<img src="https://github-readme-stats.vercel.app/api?username=VanitasXIV"/>
 <h3>Technologies I'm learning</h3>
 <p>🧑‍💻 Programming Languages</p>
 <p>
