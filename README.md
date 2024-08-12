@@ -3,10 +3,10 @@
 
 <p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
 <h3>Technologies I'm learning</h3>
-<h4>🧑‍💻 Programming Languages</h4>
+<p>🧑‍💻 Programming Languages</p>
 <p>
-	<h5><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> at university</h5>
- 	<h5><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> for Game Development</h5>
+	<p><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> at university</p>
+ 	<p><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> for Game Development</p>
 	</p>
  <p>
 	<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
 </p>
-<h4>🖼️ Frameworks</h4>
+<p>🖼️ Frameworks</p>
 <p>
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff"/>
@@ -29,7 +29,6 @@
 	<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 </p>
 <h3>Education</h3>
-<h4>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></h4>
-
-	[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
+<p>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></p>
+<p>Game Development <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff"/></p>
  
