@@ -1,7 +1,8 @@
 <h1><img src="ff7-cloud.png" width="30"/> Hi! Nice to see you.</h1>
 
 <img src="https://komarev.com/ghpvc/?username=VanitasXIV"/>
-<p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
+<p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b> and with a great interest in back-end programming.</p>
+<p>Also learning Game Development and C++ as a hobby.</p>
 <p>Contact me!</p>
 <a href="https://www.linkedin.com/in/ivangonzalogomez/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <!--- <p><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">: ardberthylfyst </p> --->
