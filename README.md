@@ -35,4 +35,11 @@
 <p>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></p>
 <p>Game Development <a href="https://www.udemy.com/course/unrealcourse/">Unreal Engine 5 C++ Developer </a><img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff"/></p>
 
+<h3>Important Projects</h3>
+<ul>
+	<li><a href="https://github.com/VanitasXIV/IDCardReader">ID Card Reader: </a></li>
+	<li><a href="https://github.com/VanitasXIV/KH3UltraPlusQualityGraphics">Improved graphics for Kingdom Hearts III:</a>Check in <a href="https://www.nexusmods.com/kingdomhearts3/mods/2160">Nexus Mods </a>for more details</li>
+	<li><a href="https://github.com/VanitasXIV/WebScrapping">Web Scraping Tool</a> made with Python</li>
+	<li><a href="https://github.com/VanitasXIV/PomodoroApp">Pomodoro App</a> made with Python</li>
+</ul>
  
