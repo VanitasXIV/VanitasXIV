@@ -40,8 +40,8 @@
 
 <h3>Important Projects</h3>
 <ul>
-    <li><a href="https://github.com/VanitasXIV/IDCardReader">ID Card Reader: </a></li>
-    <li><a href="https://github.com/VanitasXIV/KH3UltraPlusQualityGraphics">Improved graphics for Kingdom Hearts III:</a>Check in <a href="https://www.nexusmods.com/kingdomhearts3/mods/2160">Nexus Mods </a>for more details</li>
+    <li><a href="https://github.com/VanitasXIV/IDCardReader">ID Card Reader </a></li>
+    <li><a href="https://github.com/VanitasXIV/KH3UltraPlusQualityGraphics"> Improved graphics for Kingdom Hearts III:</a>Check in <a href="https://www.nexusmods.com/kingdomhearts3/mods/2160">Nexus Mods </a>for more details</li>
     <li><a href="https://github.com/VanitasXIV/WebScrapping">Web Scraping Tool</a> made with Python</li>
     <li><a href="https://github.com/VanitasXIV/PomodoroApp">Pomodoro App</a> made with Python</li>
 </ul>
