@@ -1,12 +1,16 @@
 <h1><img src="ff7-cloud.png" width="30"/> Hi! Nice to see you.</h1>
-
+<div>
 <img src="https://komarev.com/ghpvc/?username=VanitasXIV"/>
 <p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b> and with a great interest in back-end programming.</p>
 <p>Also learning Game Development and C++ as a hobby.</p>
 <p>Contact me!</p>
 <a href="https://www.linkedin.com/in/ivangonzalogomez/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <!--- <p><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">: ardberthylfyst </p> --->
+</div>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=VanitasXIV"/>
+</div>
+<div>
 <h3>Technologies I'm learning</h3>
 <p>🧑‍💻 Programming Languages</p>
 <p>
@@ -38,7 +42,7 @@
 <p><strong>University</strong>:<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> Programming Associate Degree</a></p>
 <p>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></p>
 <p>Game Development <a href="https://www.udemy.com/course/unrealcourse/">Unreal Engine 5 C++ Developer </a><img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff"/></p>
-
+</div>
 <h3>Important Projects</h3>
 <ul>
     <li><a href="https://github.com/VanitasXIV/IDCardReader">ID Card Reader </a></li>
