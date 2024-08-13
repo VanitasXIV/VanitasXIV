@@ -1,5 +1,6 @@
 <h1><img src="ff7-cloud.png" width="30"/> Hi! Nice to see you.</h1>
-
+<p>Contact me!</p>
+<a href="https://www.linkedin.com/in/ivangonzalogomez/"><img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff></a>
 <img src="https://komarev.com/ghpvc/?username=VanitasXIV"/>
 <p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b></p>
 <img src="https://github-readme-stats.vercel.app/api?username=VanitasXIV"/>
