@@ -14,12 +14,9 @@
 <h3>Technologies I'm learning</h3>
 <p>🧑‍💻 Programming Languages</p>
 <p>
-    <p><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/> at university</p>
-     <p><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> for Game Development</p>
+     <p name='Cplusplus'><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> for Game Development</p>
     </p>
  <p>
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
