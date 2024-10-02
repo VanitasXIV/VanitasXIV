@@ -23,9 +23,6 @@
 </p>
 <p>🖼️ Frameworks</p>
 <p>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
 </p>
