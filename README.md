@@ -1,7 +1,7 @@
 <h1><img src="ff7-cloud.png" width="30"/> Hi! Nice to see you.</h1>
 <div>
 <img src="https://komarev.com/ghpvc/?username=VanitasXIV"/>
-<p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, programming student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b> and with a great interest in Web and Game Development.</p>
+<p>Welcome to my GitHub page! </br> I'm Iván, also known as Van, Software Architecture student from <img src="meow_argentina.png" width="13"/> <b>Buenos Aires, Argentina</b> and with a great interest in Web and Game Development.</p>
 <p>Contact me!</p>
 <a href="https://www.linkedin.com/in/ivangonzalogomez/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 <!--- <p><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">: ardberthylfyst </p> --->
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
 </p>
 <h3>Education</h3>
-<p><strong>University</strong>:<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> Programming Associate Degree</a></p>
+<p><strong>University</strong>:<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> Bachelor's Degree in Software Architecture </a></p>
 <p>Programming courses <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"/></p>
 <p>Game Development <a href="https://www.udemy.com/course/unrealcourse/">Unreal Engine 5 C++ Developer </a><img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff"/></p>
 </div>
@@ -38,6 +38,4 @@
 <ul>
     <li><a href="https://github.com/VanitasXIV/IDCardReader">ID Card Reader </a></li>
     <li><a href="https://github.com/VanitasXIV/KH3UltraPlusQualityGraphics"> Improved graphics for Kingdom Hearts III:</a>Check in <a href="https://www.nexusmods.com/kingdomhearts3/mods/2160">Nexus Mods </a>for more details</li>
-    <li><a href="https://github.com/VanitasXIV/WebScrapping">Web Scraping Tool</a> made with Python</li>
-    <li><a href="https://github.com/VanitasXIV/PomodoroApp">Pomodoro App</a> made with Python</li>
 </ul>
